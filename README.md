@@ -61,3 +61,31 @@ Prosjektet bidro også til å utvikle ferdigheter innen programmering, testing o
 Oppgaven er levert og godkjent av faglæreren.
 
 Originalkoden er bevart uten endringer og dokumenterer det opprinnelige prosjektarbeidet.
+
+
+## Prosjektfiler
+
+Dette repositoryet inneholder to Python-programmer utviklet for LEGO SPIKE Prime som en del av praktisk prosjektarbeid ved NTNU i Gjøvik.
+
+### Oppgave3.py – Sensorbasert robotnavigasjon
+
+Programmet bruker to fargesensorer til å registrere lysrefleksjon fra underlaget og styre robotens bevegelser.
+
+En avstandssensor registrerer hindringer, mens motorstyringen tilpasses sensorverdiene. Programmet inneholder også automatiserte aktiviteter som lydsignaler, tekstvisning og motorbevegelser.
+
+**Sentrale programmeringskonsepter:** Løkker, betingelser, variabler, asynkron programmering og sensorbasert styring.
+
+### Prosjekt 2 Gruppe 2.py – Hinderdeteksjon og motorstyring
+
+Programmet styrer en LEGO SPIKE Prime-robot ved hjelp av motorer, trykksensor og avstandssensor.
+
+Roboten starter etter aktivering av trykksensoren og bruker avstandsmålinger til å registrere hindringer. Programmet inneholder logikk for unnamanøvrering, telling av hindringer og varsling gjennom lyd og lysmatrise.
+
+**Sentrale programmeringskonsepter:** Betingelser, løkker, tellere, asynkrone funksjoner og motorstyring.
+
+## Dokumentasjon og originalkode
+
+Begge Python-filene er bevart i sin opprinnelige form fra det innleverte prosjektarbeidet.
+
+Prosjektbeskrivelsene dokumenterer programmets oppbygning, sentrale funksjoner og relevante programmeringskonsepter.
+
