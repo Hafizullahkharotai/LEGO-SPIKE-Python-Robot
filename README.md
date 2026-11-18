@@ -123,3 +123,25 @@ I prosjektet ble det benyttet en testbane med en svart linje på et lyst underla
 ![NTNU-testbane for LEGO SPIKE Prime](IMG_0705.jpeg)
 
 *Figur 4: Testbane med svart linje som ble benyttet til utvikling og utprøving av robotens linjefølgingsfunksjon.*
+
+
+## Linjefølging – Python-program
+
+Filen `Linjefolging_NTNU.py` inneholder et program for sensorbasert navigasjon med LEGO SPIKE Prime.
+
+Programmet benytter to fargesensorer, tilkoblet port C og D, til å måle lysrefleksjonen fra underlaget. En grenseverdi på 35 brukes for å skille mellom lyse og mørke områder.
+
+Basert på sensorverdiene justerer programmet hastigheten til de to motorene, som er tilkoblet port A og B.
+
+### Styringslogikk
+
+- Når begge sensorene registrerer lyst underlag, kjører roboten fremover.
+- Når venstre sensor registrerer svart, utfører programmet en venstrekorreksjon.
+- Når høyre sensor registrerer svart, utfører programmet en høyrekorreksjon.
+- Når begge sensorene registrerer svart, benytter programmet den sist registrerte styringsretningen som del av håndteringen av et mulig kryss.
+
+### Programmeringskonsepter
+
+Programmet demonstrerer bruk av betingelser, løkker, variabler, asynkron programmering og sensorbasert motorstyring.
+
+Koden dokumenterer arbeidet med å utvikle en robot som kan navigere etter en svart linje på NTNU-testbanen.
