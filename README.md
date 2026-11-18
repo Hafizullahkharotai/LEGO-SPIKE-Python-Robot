@@ -113,3 +113,13 @@ Bildene nedenfor dokumenterer LEGO SPIKE Prime-robotens fysiske konstruksjon, pl
 *Figur 3: Robotens mekaniske konstruksjon og sensorplassering under håndtering.*
 
 Bildedokumentasjonen gir en visuell oversikt over hvordan robotens mekaniske og elektroniske komponenter er satt sammen.
+
+## Testbane og linjefølging
+
+I prosjektet ble det benyttet en testbane med en svart linje på et lyst underlag. Roboten var programmert til å registrere lysrefleksjon ved hjelp av to fargesensorer og tilpasse motorstyringen for å følge banen.
+
+### NTNU-testbane
+
+![NTNU-testbane for LEGO SPIKE Prime](IMG_0705.jpeg)
+
+*Figur 4: Testbane med svart linje som ble benyttet til utvikling og utprøving av robotens linjefølgingsfunksjon.*
