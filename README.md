@@ -89,3 +89,27 @@ Begge Python-filene er bevart i sin opprinnelige form fra det innleverte prosjek
 
 Prosjektbeskrivelsene dokumenterer programmets oppbygning, sentrale funksjoner og relevante programmeringskonsepter.
 
+
+## Robotkonstruksjon og bildedokumentasjon
+
+Bildene nedenfor dokumenterer LEGO SPIKE Prime-robotens fysiske konstruksjon, plasseringen av sentrale komponenter og sensoroppsettet som ble benyttet i prosjektarbeidet.
+
+### Robotens front og sensorer
+
+![LEGO SPIKE Prime-robot sett forfra](IMG_0710.jpeg)
+
+*Figur 1: Robotens front med hjul, sensorer og tilhørende mekanisk konstruksjon.*
+
+### Robotens konstruksjon sett fra siden
+
+![LEGO SPIKE Prime-robot sett fra siden](IMG_0709.jpeg)
+
+*Figur 2: Sidevisning av roboten som viser hjulplassering, kontrollenhet og kabelføring.*
+
+### Robotens mekaniske oppbygning
+
+![LEGO SPIKE Prime-robot under demonstrasjon](IMG_0711.jpeg)
+
+*Figur 3: Robotens mekaniske konstruksjon og sensorplassering under håndtering.*
+
+Bildedokumentasjonen gir en visuell oversikt over hvordan robotens mekaniske og elektroniske komponenter er satt sammen.
